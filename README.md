@@ -14,7 +14,7 @@ This is my GitHub profile :stuck_out_tongue_winking_eye:
 
 <p align="left">
   💼 Code tools: <strong> VSCode, Visual Studio, PyCharm, Sublime and Netbeans</strong><br><br>
- :space_invader: CyberSecurity tools: <strong> SonarQube, OpenVAS, Nessus, John the Ripper, KeyCloack, Wireshark (there is a lot more :face_exhaling:)</strong>
+ :space_invader: CyberSecurity tools: <strong> SonarQube, OpenVAS, Nessus, John the Ripper, KeyCloack, Wireshark (there's a lot more :face_exhaling:)</strong>
 </p>
 
 <p align="left">
