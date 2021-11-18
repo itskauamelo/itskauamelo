@@ -5,7 +5,7 @@
 - :birthday: 26 years old<br>
 - :student: Information Systems (2017 - 2021) n' Cyber Security (2021)<br>
 
-This is my GitHub's profile :stuck_out_tongue_winking_eye:
+This is my GitHub profile :stuck_out_tongue_winking_eye:
 </p>
 
 <p align="left">
