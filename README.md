@@ -3,7 +3,7 @@
 <p align="left">
 - 👋 Hi, I’m @itskauamelo<br>
 - :birthday: 26 years old<br>
-- :student: Information Systems (2017 - 2021) n' Cyber Security (2021)<br>
+- :student: Information Systems (2017 - 2021) n' Cyber Security (2021-2022)<br>
 
 :stuck_out_tongue_winking_eye: This is my GitHub profile 
 </p>
