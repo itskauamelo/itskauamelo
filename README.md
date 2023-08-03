@@ -2,7 +2,7 @@
 
 <p align="left">
 - 👋 Hi, I’m @itskauamelo<br>
-- :birthday: 26 years old<br>
+- :birthday: 28 years old<br>
 - :mortar_board: Information Systems (2017 - 2021) n' Cyber Security (2021-2022)<br>
 - :briefcase: CyberSecurity Analyst PL at Telefónica Brasil<br>
 
