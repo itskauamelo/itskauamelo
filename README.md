@@ -1,10 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left">
-- 👋 Hi, I’m @itskauamelo<br>
-- :birthday: 28 years old<br>
-- :mortar_board: Information Systems (2017 - 2021) n' Cyber Security (2021-2022)<br>
-- :briefcase: CyberSecurity Analyst PL at Telefónica Brasil<br>
+- 👋 Hi
 
 :stuck_out_tongue_winking_eye: This is my GitHub profile 
 </p>
