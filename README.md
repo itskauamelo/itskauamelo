@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  💼 Code tools: <strong> VSCode, Visual Studio, PyCharm, Sublime and Netbeans</strong><br><br>
+  💼 Code tools: <strong> VSCode, Visual Studio, PyCharm, Sublime, Netbeans, Vim and Nano</strong><br><br>
  :space_invader: CyberSecurity tools: <strong> SonarQube, OpenVAS, Nessus, Tenable.io, Tenable.sc, Burp, John the Ripper, KeyCloack, Wireshark, Burp (there's a lot more :face_exhaling:)</strong>
 </p>
 
