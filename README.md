@@ -12,7 +12,7 @@
 
 <p align="left">
   💼 Code tools: <strong> VSCode, Visual Studio, PyCharm, Sublime, Netbeans, Vim and Nano</strong><br><br>
- :space_invader: CyberSecurity tools: <strong> SonarQube, OpenVAS, Nessus, Tenable.io, Tenable.sc, Burp, John the Ripper, KeyCloack, Wireshark, Burp (there's a lot more :face_exhaling:)</strong>
+ :space_invader: CyberSecurity tools: <strong> SonarQube, OpenVAS, Nessus, Tenable.io, Tenable.sc, Tenable.ad, Tenable.sc, Burp, John the Ripper, KeyCloack, Wireshark, Burp Enterprise, Burp Professional (there's a lot more :face_exhaling:)</strong>
 </p>
 
 <p align="left">
